@@ -3,4 +3,8 @@ to devops
 git -- local
 git hub -- remote
 
+<<<<<<< HEAD
 making changes in cli will see in remotely
+=======
+making changes in remote will see local
+>>>>>>> 90ddfb0760bc78065c07c70757cb092dc5e07a2b
